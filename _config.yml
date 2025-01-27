@@ -1,8 +1,7 @@
-# Specify only one theme method. Using both `theme` and `remote_theme` will conflict.
 remote_theme: pages-themes/leap-day@v0.2.0
 
 plugins:
   - jekyll-remote-theme # Ensure this is included to use remote themes
 
 title: Sapir Erlich
-description: This site will showcase Sapir Erlich's projects
+description: This site will showcase Sapir Erlichs projects
